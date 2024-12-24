@@ -1,10 +1,9 @@
-import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      
-    </div>
+    <footer>
+         All rights reserver @ 2025 Created by Muzammil MERN STACK DEVELOPER
+    </footer>
   )
 }
 
